@@ -1,1 +1,5 @@
 Brainstorm-Projeto-SI-Estacionamento
+Recursos esperados do novo sistema:
+-Permitir pagamento com cartão
+-Controlar a abertura da cancela da saida mediante pagamento
+
